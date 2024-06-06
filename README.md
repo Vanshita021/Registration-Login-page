@@ -1,6 +1,6 @@
 # Registration-Login-page
 
-Login Form:<br><br>
+##Login Form:<br><br>
 🔒 This section includes fields for the user to input their username and password.
 <br>
 📝 It usually has labels for each input field, such as "Username" and "Password," to provide guidance to the user.
@@ -9,7 +9,8 @@ Login Form:<br><br>
 <br>
 🚀 Additionally, there is a "Login" button that users can click to submit their credentials and log into their GitHub account.
 <br><br>
-Registration Section:<br><br>
+
+##Registration Section:<br><br>
 📋 Below the login form, there is often a section for users who do not have an account to register.
 <br>
 📧 This section typically includes following input fields:
